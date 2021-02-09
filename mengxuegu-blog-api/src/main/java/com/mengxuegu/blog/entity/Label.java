@@ -8,4 +8,6 @@ package com.mengxuegu.blog.entity;
 
 public class Label {
     private Integer code;
+
+    private String name;
 }
