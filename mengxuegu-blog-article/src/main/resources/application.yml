@@ -37,3 +37,12 @@ logging:
   level:
     com.mengxuegu.blog.article.mapper: debug
 
+mengxuegu:
+  blog:
+    # 阿里云OSS配置
+    aliyun:
+      endpoint: https://oss-cn-shanghai.aliyuncs.com
+      access-key-id: LTAI4FzrGW8n4X6FLczZRTBW
+      access-key-secret: WIKNjqcvTkjghJ9b2aoTO2QvP7RZ1q
+      bucket-name: test-lihaibin
+      bucket-domain: https://test-lihaibin.oss-cn-shanghai.aliyuncs.com/
